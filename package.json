@@ -1,0 +1,21 @@
+{
+  "name": "png-normalizer",
+  "version": "1.0.3",
+  "description": "ipa PNG Image Normalizer",
+  "keywords": [
+    "ipa",
+    "ipa-png",
+    "ios-png",
+    "pngdefry",
+    "ipad-png",
+    "png-parse",
+    "png-Convert"
+  ],
+  "main": "index.js",
+  "author": "sbfkcel@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbfkcel/png-normalizer/issues"
+  },
+  "homepage": "https://github.com/sbfkcel/png-normalizer#readme"
+}
